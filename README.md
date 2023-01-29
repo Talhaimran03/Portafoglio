@@ -92,9 +92,9 @@ SOFTWARE.
 ## Contact
 
 If you have any problem please contact us:
-> 19133@studenti.marconiverona.edu.it
-> 19211@studenti.marconiverona.edu.it
-> 19078@studenti.marconiverona.edu.it
+> 19133@studenti.marconiverona.edu.it,
+> 19211@studenti.marconiverona.edu.it,
+> 19078@studenti.marconiverona.edu.it,
 > 18732@studenti.marconiverona.edu.it
  
  ## Repository's link
