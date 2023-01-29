@@ -20,6 +20,7 @@ __email__ = ["19078@studenti.marconiverona.edu.it",
              "19221@studenti.marconiverona.edu.it", 
              "18732@studenti.marconiverona.edu.it", 
              "19133@studenti.marconiverona.edu.it"]
+__status__ = "Development"
 
 def main():
 
