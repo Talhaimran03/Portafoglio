@@ -1,0 +1,2304 @@
+- chiave: 1
+  valore:
+    Adj Close: 5.87086
+    Close: 6.088
+    Date: '2022-01-24'
+    High: 6.424
+    Low: 6.058
+    Open: 6.386
+    Volume: 2370106
+- chiave: 2
+  valore:
+    Adj Close: 5.978866
+    Close: 6.2
+    Date: '2022-01-25'
+    High: 6.256
+    Low: 6.11
+    Open: 6.176
+    Volume: 2014242
+- chiave: 3
+  valore:
+    Adj Close: 5.94415
+    Close: 6.164
+    Date: '2022-01-26'
+    High: 6.268
+    Low: 6.108
+    Open: 6.202
+    Volume: 1842897
+- chiave: 4
+  valore:
+    Adj Close: 6.061798
+    Close: 6.286
+    Date: '2022-01-27'
+    High: 6.308
+    Low: 6.072
+    Open: 6.1
+    Volume: 1786524
+- chiave: 5
+  valore:
+    Adj Close: 5.940292
+    Close: 6.16
+    Date: '2022-01-28'
+    High: 6.268
+    Low: 6.124
+    Open: 6.268
+    Volume: 2246446
+- chiave: 6
+  valore:
+    Adj Close: 6.009724
+    Close: 6.232
+    Date: '2022-01-31'
+    High: 6.242
+    Low: 6.156
+    Open: 6.242
+    Volume: 1921905
+- chiave: 7
+  valore:
+    Adj Close: 6.096514
+    Close: 6.322
+    Date: '2022-02-01'
+    High: 6.334
+    Low: 6.224
+    Open: 6.224
+    Volume: 1681490
+- chiave: 8
+  valore:
+    Adj Close: 6.067584
+    Close: 6.292
+    Date: '2022-02-02'
+    High: 6.356
+    Low: 6.276
+    Open: 6.312
+    Volume: 1028986
+- chiave: 9
+  valore:
+    Adj Close: 6.023225
+    Close: 6.246
+    Date: '2022-02-03'
+    High: 6.304
+    Low: 6.222
+    Open: 6.25
+    Volume: 811634
+- chiave: 10
+  valore:
+    Adj Close: 5.824573
+    Close: 6.04
+    Date: '2022-02-04'
+    High: 6.324
+    Low: 6.0
+    Open: 6.31
+    Volume: 2730930
+- chiave: 11
+  valore:
+    Adj Close: 5.82843
+    Close: 6.044
+    Date: '2022-02-07'
+    High: 6.128
+    Low: 5.996
+    Open: 6.084
+    Volume: 1498815
+- chiave: 12
+  valore:
+    Adj Close: 5.913291
+    Close: 6.132
+    Date: '2022-02-08'
+    High: 6.148
+    Low: 6.01
+    Open: 6.038
+    Volume: 1543094
+- chiave: 13
+  valore:
+    Adj Close: 5.89979
+    Close: 6.118
+    Date: '2022-02-09'
+    High: 6.276
+    Low: 6.092
+    Open: 6.15
+    Volume: 1883670
+- chiave: 14
+  valore:
+    Adj Close: 5.998152
+    Close: 6.22
+    Date: '2022-02-10'
+    High: 6.254
+    Low: 6.088
+    Open: 6.132
+    Volume: 1943608
+- chiave: 15
+  valore:
+    Adj Close: 5.797571
+    Close: 6.012
+    Date: '2022-02-11'
+    High: 6.21
+    Low: 5.988
+    Open: 6.17
+    Volume: 2841431
+- chiave: 16
+  valore:
+    Adj Close: 5.645206
+    Close: 5.854
+    Date: '2022-02-14'
+    High: 5.93
+    Low: 5.702
+    Open: 5.93
+    Volume: 3881959
+- chiave: 17
+  valore:
+    Adj Close: 5.78407
+    Close: 5.998
+    Date: '2022-02-15'
+    High: 6.042
+    Low: 5.784
+    Open: 5.786
+    Volume: 2265679
+- chiave: 18
+  valore:
+    Adj Close: 5.658707
+    Close: 5.868
+    Date: '2022-02-16'
+    High: 6.06
+    Low: 5.86
+    Open: 6.002
+    Volume: 1735712
+- chiave: 19
+  valore:
+    Adj Close: 5.662565
+    Close: 5.872
+    Date: '2022-02-17'
+    High: 5.976
+    Low: 5.81
+    Open: 5.938
+    Volume: 2286625
+- chiave: 20
+  valore:
+    Adj Close: 5.55263
+    Close: 5.758
+    Date: '2022-02-18'
+    High: 5.926
+    Low: 5.746
+    Open: 5.91
+    Volume: 2110850
+- chiave: 21
+  valore:
+    Adj Close: 5.411838
+    Close: 5.612
+    Date: '2022-02-21'
+    High: 5.844
+    Low: 5.578
+    Open: 5.76
+    Volume: 1673732
+- chiave: 22
+  valore:
+    Adj Close: 5.460054
+    Close: 5.662
+    Date: '2022-02-22'
+    High: 5.742
+    Low: 5.408
+    Open: 5.51
+    Volume: 2046864
+- chiave: 23
+  valore:
+    Adj Close: 5.450411
+    Close: 5.652
+    Date: '2022-02-23'
+    High: 5.746
+    Low: 5.584
+    Open: 5.746
+    Volume: 2570989
+- chiave: 24
+  valore:
+    Adj Close: 4.883383
+    Close: 5.064
+    Date: '2022-02-24'
+    High: 5.5
+    Low: 5.01
+    Open: 5.5
+    Volume: 8091389
+- chiave: 25
+  valore:
+    Adj Close: 5.004889
+    Close: 5.19
+    Date: '2022-02-25'
+    High: 5.194
+    Low: 4.889
+    Open: 5.158
+    Volume: 7442160
+- chiave: 26
+  valore:
+    Adj Close: 4.766699
+    Close: 4.943
+    Date: '2022-02-28'
+    High: 5.068
+    Low: 4.752
+    Open: 5.05
+    Volume: 5179774
+- chiave: 27
+  valore:
+    Adj Close: 4.436897
+    Close: 4.601
+    Date: '2022-03-01'
+    High: 4.961
+    Low: 4.601
+    Open: 4.929
+    Volume: 5550087
+- chiave: 28
+  valore:
+    Adj Close: 4.543938
+    Close: 4.712
+    Date: '2022-03-02'
+    High: 4.81
+    Low: 4.515
+    Open: 4.601
+    Volume: 5287521
+- chiave: 29
+  valore:
+    Adj Close: 4.4909
+    Close: 4.657
+    Date: '2022-03-03'
+    High: 4.791
+    Low: 4.636
+    Open: 4.712
+    Volume: 4897326
+- chiave: 30
+  valore:
+    Adj Close: 4.171706
+    Close: 4.326
+    Date: '2022-03-04'
+    High: 4.606
+    Low: 4.326
+    Open: 4.569
+    Volume: 5387349
+- chiave: 31
+  valore:
+    Adj Close: 4.169776
+    Close: 4.324
+    Date: '2022-03-07'
+    High: 4.373
+    Low: 3.9
+    Open: 4.14
+    Volume: 5368623
+- chiave: 32
+  valore:
+    Adj Close: 4.086844
+    Close: 4.238
+    Date: '2022-03-08'
+    High: 4.439
+    Low: 4.213
+    Open: 4.254
+    Volume: 4500750
+- chiave: 33
+  valore:
+    Adj Close: 4.51115
+    Close: 4.678
+    Date: '2022-03-09'
+    High: 4.715
+    Low: 4.384
+    Open: 4.446
+    Volume: 7700839
+- chiave: 34
+  valore:
+    Adj Close: 4.382895
+    Close: 4.545
+    Date: '2022-03-10'
+    High: 4.721
+    Low: 4.439
+    Open: 4.703
+    Volume: 3168181
+- chiave: 35
+  valore:
+    Adj Close: 4.367465
+    Close: 4.529
+    Date: '2022-03-11'
+    High: 4.742
+    Low: 4.497
+    Open: 4.589
+    Volume: 3583767
+- chiave: 36
+  valore:
+    Adj Close: 4.494757
+    Close: 4.661
+    Date: '2022-03-14'
+    High: 4.769
+    Low: 4.612
+    Open: 4.631
+    Volume: 3248155
+- chiave: 37
+  valore:
+    Adj Close: 4.5044
+    Close: 4.671
+    Date: '2022-03-15'
+    High: 4.7
+    Low: 4.522
+    Open: 4.587
+    Volume: 3429484
+- chiave: 38
+  valore:
+    Adj Close: 4.727161
+    Close: 4.902
+    Date: '2022-03-16'
+    High: 4.94
+    Low: 4.713
+    Open: 4.74
+    Volume: 4326966
+- chiave: 39
+  valore:
+    Adj Close: 4.674123
+    Close: 4.847
+    Date: '2022-03-17'
+    High: 4.947
+    Low: 4.742
+    Open: 4.86
+    Volume: 4300476
+- chiave: 40
+  valore:
+    Adj Close: 4.676052
+    Close: 4.849
+    Date: '2022-03-18'
+    High: 4.859
+    Low: 4.712
+    Open: 4.832
+    Volume: 4774525
+- chiave: 41
+  valore:
+    Adj Close: 4.599869
+    Close: 4.77
+    Date: '2022-03-21'
+    High: 4.885
+    Low: 4.77
+    Open: 4.857
+    Volume: 1636489
+- chiave: 42
+  valore:
+    Adj Close: 4.680873
+    Close: 4.854
+    Date: '2022-03-22'
+    High: 4.903
+    Low: 4.771
+    Open: 4.784
+    Volume: 1588173
+- chiave: 43
+  valore:
+    Adj Close: 4.673159
+    Close: 4.846
+    Date: '2022-03-23'
+    High: 4.92
+    Low: 4.753
+    Open: 4.903
+    Volume: 1943279
+- chiave: 44
+  valore:
+    Adj Close: 4.596012
+    Close: 4.766
+    Date: '2022-03-24'
+    High: 4.865
+    Low: 4.73
+    Open: 4.85
+    Volume: 1878893
+- chiave: 45
+  valore:
+    Adj Close: 4.628799
+    Close: 4.8
+    Date: '2022-03-25'
+    High: 4.814
+    Low: 4.74
+    Open: 4.813
+    Volume: 1417907
+- chiave: 46
+  valore:
+    Adj Close: 4.604691
+    Close: 4.775
+    Date: '2022-03-28'
+    High: 4.852
+    Low: 4.74
+    Open: 4.837
+    Volume: 1654738
+- chiave: 47
+  valore:
+    Adj Close: 4.839024
+    Close: 5.018
+    Date: '2022-03-29'
+    High: 5.082
+    Low: 4.811
+    Open: 4.816
+    Volume: 3793976
+- chiave: 48
+  valore:
+    Adj Close: 4.819737
+    Close: 4.998
+    Date: '2022-03-30'
+    High: 5.002
+    Low: 4.867
+    Open: 4.979
+    Volume: 2539969
+- chiave: 49
+  valore:
+    Adj Close: 4.755127
+    Close: 4.931
+    Date: '2022-03-31'
+    High: 5.04
+    Low: 4.894
+    Open: 5.01
+    Volume: 2150012
+- chiave: 50
+  valore:
+    Adj Close: 4.731019
+    Close: 4.906
+    Date: '2022-04-01'
+    High: 4.999
+    Low: 4.899
+    Open: 4.931
+    Volume: 1512137
+- chiave: 51
+  valore:
+    Adj Close: 4.703053
+    Close: 4.877
+    Date: '2022-04-04'
+    High: 4.97
+    Low: 4.842
+    Open: 4.91
+    Volume: 1366405
+- chiave: 52
+  valore:
+    Adj Close: 4.630728
+    Close: 4.802
+    Date: '2022-04-05'
+    High: 5.038
+    Low: 4.772
+    Open: 4.99
+    Volume: 2905567
+- chiave: 53
+  valore:
+    Adj Close: 4.380001
+    Close: 4.542
+    Date: '2022-04-06'
+    High: 4.816
+    Low: 4.49
+    Open: 4.816
+    Volume: 4603345
+- chiave: 54
+  valore:
+    Adj Close: 4.255602
+    Close: 4.413
+    Date: '2022-04-07'
+    High: 4.6
+    Low: 4.41
+    Open: 4.577
+    Volume: 3363384
+- chiave: 55
+  valore:
+    Adj Close: 4.29514
+    Close: 4.454
+    Date: '2022-04-08'
+    High: 4.493
+    Low: 4.347
+    Open: 4.452
+    Volume: 3241105
+- chiave: 56
+  valore:
+    Adj Close: 4.270067
+    Close: 4.428
+    Date: '2022-04-11'
+    High: 4.449
+    Low: 4.362
+    Open: 4.44
+    Volume: 2403733
+- chiave: 57
+  valore:
+    Adj Close: 4.287426
+    Close: 4.446
+    Date: '2022-04-12'
+    High: 4.481
+    Low: 4.355
+    Open: 4.398
+    Volume: 2415234
+- chiave: 58
+  valore:
+    Adj Close: 4.35975
+    Close: 4.521
+    Date: '2022-04-13'
+    High: 4.539
+    Low: 4.397
+    Open: 4.431
+    Volume: 1575910
+- chiave: 59
+  valore:
+    Adj Close: 4.380966
+    Close: 4.543
+    Date: '2022-04-14'
+    High: 4.56
+    Low: 4.504
+    Open: 4.526
+    Volume: 2039720
+- chiave: 60
+  valore:
+    Adj Close: 4.440754
+    Close: 4.605
+    Date: '2022-04-19'
+    High: 4.605
+    Low: 4.5
+    Open: 4.531
+    Volume: 1172764
+- chiave: 61
+  valore:
+    Adj Close: 4.586369
+    Close: 4.756
+    Date: '2022-04-20'
+    High: 4.79
+    Low: 4.582
+    Open: 4.605
+    Volume: 3842670
+- chiave: 62
+  valore:
+    Adj Close: 4.70691
+    Close: 4.881
+    Date: '2022-04-21'
+    High: 5.016
+    Low: 4.69
+    Open: 4.703
+    Volume: 4687157
+- chiave: 63
+  valore:
+    Adj Close: 4.575761
+    Close: 4.745
+    Date: '2022-04-22'
+    High: 4.87
+    Low: 4.735
+    Open: 4.8
+    Volume: 1572535
+- chiave: 64
+  valore:
+    Adj Close: 4.528509
+    Close: 4.696
+    Date: '2022-04-25'
+    High: 4.743
+    Low: 4.64
+    Open: 4.7
+    Volume: 1043439
+- chiave: 65
+  valore:
+    Adj Close: 4.413753
+    Close: 4.577
+    Date: '2022-04-26'
+    High: 4.762
+    Low: 4.573
+    Open: 4.76
+    Volume: 1271329
+- chiave: 66
+  valore:
+    Adj Close: 4.499578
+    Close: 4.666
+    Date: '2022-04-27'
+    High: 4.703
+    Low: 4.52
+    Open: 4.61
+    Volume: 1365833
+- chiave: 67
+  valore:
+    Adj Close: 4.576725
+    Close: 4.746
+    Date: '2022-04-28'
+    High: 4.847
+    Low: 4.692
+    Open: 4.707
+    Volume: 1808335
+- chiave: 68
+  valore:
+    Adj Close: 4.578654
+    Close: 4.748
+    Date: '2022-04-29'
+    High: 4.794
+    Low: 4.665
+    Open: 4.711
+    Volume: 1917361
+- chiave: 69
+  valore:
+    Adj Close: 4.452326
+    Close: 4.617
+    Date: '2022-05-02'
+    High: 4.713
+    Low: 4.561
+    Open: 4.68
+    Volume: 2119596
+- chiave: 70
+  valore:
+    Adj Close: 4.414717
+    Close: 4.578
+    Date: '2022-05-03'
+    High: 4.71
+    Low: 4.555
+    Open: 4.67
+    Volume: 2263738
+- chiave: 71
+  valore:
+    Adj Close: 4.412789
+    Close: 4.576
+    Date: '2022-05-04'
+    High: 4.628
+    Low: 4.548
+    Open: 4.551
+    Volume: 1303565
+- chiave: 72
+  valore:
+    Adj Close: 4.289354
+    Close: 4.448
+    Date: '2022-05-05'
+    High: 4.692
+    Low: 4.444
+    Open: 4.666
+    Volume: 1746404
+- chiave: 73
+  valore:
+    Adj Close: 4.292247
+    Close: 4.451
+    Date: '2022-05-06'
+    High: 4.495
+    Low: 4.371
+    Open: 4.44
+    Volume: 1855446
+- chiave: 74
+  valore:
+    Adj Close: 4.147597
+    Close: 4.301
+    Date: '2022-05-09'
+    High: 4.453
+    Low: 4.301
+    Open: 4.4
+    Volume: 2111708
+- chiave: 75
+  valore:
+    Adj Close: 4.309605
+    Close: 4.469
+    Date: '2022-05-10'
+    High: 4.511
+    Low: 4.323
+    Open: 4.35
+    Volume: 2099491
+- chiave: 76
+  valore:
+    Adj Close: 4.405074
+    Close: 4.568
+    Date: '2022-05-11'
+    High: 4.628
+    Low: 4.47
+    Open: 4.59
+    Volume: 2290244
+- chiave: 77
+  valore:
+    Adj Close: 4.473542
+    Close: 4.639
+    Date: '2022-05-12'
+    High: 4.666
+    Low: 4.47
+    Open: 4.47
+    Volume: 1807513
+- chiave: 78
+  valore:
+    Adj Close: 4.580583
+    Close: 4.75
+    Date: '2022-05-13'
+    High: 4.75
+    Low: 4.624
+    Open: 4.68
+    Volume: 1116248
+- chiave: 79
+  valore:
+    Adj Close: 4.538152
+    Close: 4.706
+    Date: '2022-05-16'
+    High: 4.74
+    Low: 4.61
+    Open: 4.704
+    Volume: 885772
+- chiave: 80
+  valore:
+    Adj Close: 4.519829
+    Close: 4.687
+    Date: '2022-05-17'
+    High: 4.758
+    Low: 4.65
+    Open: 4.758
+    Volume: 1423396
+- chiave: 81
+  valore:
+    Adj Close: 4.411824
+    Close: 4.575
+    Date: '2022-05-18'
+    High: 4.716
+    Low: 4.538
+    Open: 4.716
+    Volume: 2215369
+- chiave: 82
+  valore:
+    Adj Close: 4.383859
+    Close: 4.546
+    Date: '2022-05-19'
+    High: 4.552
+    Low: 4.475
+    Open: 4.52
+    Volume: 1820197
+- chiave: 83
+  valore:
+    Adj Close: 4.353
+    Close: 4.514
+    Date: '2022-05-20'
+    High: 4.682
+    Low: 4.502
+    Open: 4.554
+    Volume: 2396662
+- chiave: 84
+  valore:
+    Adj Close: 4.511
+    Close: 4.511
+    Date: '2022-05-23'
+    High: 4.511
+    Low: 4.358
+    Open: 4.444
+    Volume: 1930235
+- chiave: 85
+  valore:
+    Adj Close: 4.401
+    Close: 4.401
+    Date: '2022-05-24'
+    High: 4.491
+    Low: 4.357
+    Open: 4.443
+    Volume: 1923745
+- chiave: 86
+  valore:
+    Adj Close: 4.429
+    Close: 4.429
+    Date: '2022-05-25'
+    High: 4.47
+    Low: 4.34
+    Open: 4.44
+    Volume: 1352870
+- chiave: 87
+  valore:
+    Adj Close: 4.582
+    Close: 4.582
+    Date: '2022-05-26'
+    High: 4.599
+    Low: 4.394
+    Open: 4.403
+    Volume: 1272388
+- chiave: 88
+  valore:
+    Adj Close: 4.595
+    Close: 4.595
+    Date: '2022-05-27'
+    High: 4.61
+    Low: 4.55
+    Open: 4.6
+    Volume: 803294
+- chiave: 89
+  valore:
+    Adj Close: 4.667
+    Close: 4.667
+    Date: '2022-05-30'
+    High: 4.694
+    Low: 4.62
+    Open: 4.62
+    Volume: 1236000
+- chiave: 90
+  valore:
+    Adj Close: 4.602
+    Close: 4.602
+    Date: '2022-05-31'
+    High: 4.67
+    Low: 4.575
+    Open: 4.662
+    Volume: 1595503
+- chiave: 91
+  valore:
+    Adj Close: 4.651
+    Close: 4.651
+    Date: '2022-06-01'
+    High: 4.74
+    Low: 4.608
+    Open: 4.646
+    Volume: 1244046
+- chiave: 92
+  valore:
+    Adj Close: 4.669
+    Close: 4.669
+    Date: '2022-06-02'
+    High: 4.695
+    Low: 4.641
+    Open: 4.671
+    Volume: 429704
+- chiave: 93
+  valore:
+    Adj Close: 4.575
+    Close: 4.575
+    Date: '2022-06-03'
+    High: 4.72
+    Low: 4.568
+    Open: 4.72
+    Volume: 982607
+- chiave: 94
+  valore:
+    Adj Close: 4.67
+    Close: 4.67
+    Date: '2022-06-06'
+    High: 4.702
+    Low: 4.592
+    Open: 4.592
+    Volume: 661346
+- chiave: 95
+  valore:
+    Adj Close: 4.589
+    Close: 4.589
+    Date: '2022-06-07'
+    High: 4.679
+    Low: 4.575
+    Open: 4.66
+    Volume: 1054236
+- chiave: 96
+  valore:
+    Adj Close: 4.522
+    Close: 4.522
+    Date: '2022-06-08'
+    High: 4.596
+    Low: 4.502
+    Open: 4.585
+    Volume: 1390641
+- chiave: 97
+  valore:
+    Adj Close: 4.448
+    Close: 4.448
+    Date: '2022-06-09'
+    High: 4.607
+    Low: 4.432
+    Open: 4.517
+    Volume: 1501746
+- chiave: 98
+  valore:
+    Adj Close: 4.323
+    Close: 4.323
+    Date: '2022-06-10'
+    High: 4.436
+    Low: 4.299
+    Open: 4.428
+    Volume: 2686190
+- chiave: 99
+  valore:
+    Adj Close: 4.07
+    Close: 4.07
+    Date: '2022-06-13'
+    High: 4.29
+    Low: 4.061
+    Open: 4.253
+    Volume: 2314843
+- chiave: 100
+  valore:
+    Adj Close: 4.015
+    Close: 4.015
+    Date: '2022-06-14'
+    High: 4.122
+    Low: 3.95
+    Open: 4.116
+    Volume: 2426396
+- chiave: 101
+  valore:
+    Adj Close: 4.213
+    Close: 4.213
+    Date: '2022-06-15'
+    High: 4.252
+    Low: 4.109
+    Open: 4.12
+    Volume: 2162957
+- chiave: 102
+  valore:
+    Adj Close: 4.03
+    Close: 4.03
+    Date: '2022-06-16'
+    High: 4.203
+    Low: 4.01
+    Open: 4.181
+    Volume: 1378418
+- chiave: 103
+  valore:
+    Adj Close: 4.24
+    Close: 4.24
+    Date: '2022-06-17'
+    High: 4.271
+    Low: 4.03
+    Open: 4.031
+    Volume: 3470441
+- chiave: 104
+  valore:
+    Adj Close: 4.259
+    Close: 4.259
+    Date: '2022-06-20'
+    High: 4.263
+    Low: 4.163
+    Open: 4.211
+    Volume: 896569
+- chiave: 105
+  valore:
+    Adj Close: 4.242
+    Close: 4.242
+    Date: '2022-06-21'
+    High: 4.325
+    Low: 4.242
+    Open: 4.273
+    Volume: 852460
+- chiave: 106
+  valore:
+    Adj Close: 4.202
+    Close: 4.202
+    Date: '2022-06-22'
+    High: 4.243
+    Low: 4.085
+    Open: 4.15
+    Volume: 853012
+- chiave: 107
+  valore:
+    Adj Close: 3.966
+    Close: 3.966
+    Date: '2022-06-23'
+    High: 4.24
+    Low: 3.966
+    Open: 4.24
+    Volume: 2920061
+- chiave: 108
+  valore:
+    Adj Close: 4.055
+    Close: 4.055
+    Date: '2022-06-24'
+    High: 4.101
+    Low: 3.954
+    Open: 4.035
+    Volume: 1678813
+- chiave: 109
+  valore:
+    Adj Close: 4.044
+    Close: 4.044
+    Date: '2022-06-27'
+    High: 4.14
+    Low: 4.025
+    Open: 4.111
+    Volume: 1282641
+- chiave: 110
+  valore:
+    Adj Close: 4.083
+    Close: 4.083
+    Date: '2022-06-28'
+    High: 4.136
+    Low: 4.054
+    Open: 4.077
+    Volume: 1367751
+- chiave: 111
+  valore:
+    Adj Close: 4.022
+    Close: 4.022
+    Date: '2022-06-29'
+    High: 4.062
+    Low: 3.972
+    Open: 4.002
+    Volume: 1078471
+- chiave: 112
+  valore:
+    Adj Close: 3.876
+    Close: 3.876
+    Date: '2022-06-30'
+    High: 3.98
+    Low: 3.82
+    Open: 3.945
+    Volume: 2512501
+- chiave: 113
+  valore:
+    Adj Close: 3.937
+    Close: 3.937
+    Date: '2022-07-01'
+    High: 3.977
+    Low: 3.816
+    Open: 3.85
+    Volume: 3530258
+- chiave: 114
+  valore:
+    Adj Close: 3.903
+    Close: 3.903
+    Date: '2022-07-04'
+    High: 3.961
+    Low: 3.852
+    Open: 3.947
+    Volume: 1259841
+- chiave: 115
+  valore:
+    Adj Close: 3.774
+    Close: 3.774
+    Date: '2022-07-05'
+    High: 3.926
+    Low: 3.755
+    Open: 3.9
+    Volume: 2164862
+- chiave: 116
+  valore:
+    Adj Close: 3.866
+    Close: 3.866
+    Date: '2022-07-06'
+    High: 3.892
+    Low: 3.799
+    Open: 3.85
+    Volume: 1272968
+- chiave: 117
+  valore:
+    Adj Close: 4.071
+    Close: 4.071
+    Date: '2022-07-07'
+    High: 4.085
+    Low: 3.884
+    Open: 3.884
+    Volume: 2231696
+- chiave: 118
+  valore:
+    Adj Close: 4.14
+    Close: 4.14
+    Date: '2022-07-08'
+    High: 4.207
+    Low: 3.95
+    Open: 3.964
+    Volume: 1992624
+- chiave: 119
+  valore:
+    Adj Close: 4.065
+    Close: 4.065
+    Date: '2022-07-11'
+    High: 4.173
+    Low: 4.038
+    Open: 4.04
+    Volume: 1022124
+- chiave: 120
+  valore:
+    Adj Close: 4.087
+    Close: 4.087
+    Date: '2022-07-12'
+    High: 4.099
+    Low: 3.966
+    Open: 4.018
+    Volume: 1732968
+- chiave: 121
+  valore:
+    Adj Close: 3.96
+    Close: 3.96
+    Date: '2022-07-13'
+    High: 4.073
+    Low: 3.947
+    Open: 4.073
+    Volume: 1482347
+- chiave: 122
+  valore:
+    Adj Close: 3.875
+    Close: 3.875
+    Date: '2022-07-14'
+    High: 3.998
+    Low: 3.818
+    Open: 3.926
+    Volume: 1737711
+- chiave: 123
+  valore:
+    Adj Close: 4.091
+    Close: 4.091
+    Date: '2022-07-15'
+    High: 4.098
+    Low: 3.89
+    Open: 3.892
+    Volume: 2031711
+- chiave: 124
+  valore:
+    Adj Close: 4.16
+    Close: 4.16
+    Date: '2022-07-18'
+    High: 4.211
+    Low: 4.053
+    Open: 4.056
+    Volume: 1700718
+- chiave: 125
+  valore:
+    Adj Close: 4.203
+    Close: 4.203
+    Date: '2022-07-19'
+    High: 4.237
+    Low: 4.1
+    Open: 4.1
+    Volume: 1914171
+- chiave: 126
+  valore:
+    Adj Close: 4.169
+    Close: 4.169
+    Date: '2022-07-20'
+    High: 4.259
+    Low: 4.106
+    Open: 4.24
+    Volume: 1806984
+- chiave: 127
+  valore:
+    Adj Close: 4.121
+    Close: 4.121
+    Date: '2022-07-21'
+    High: 4.161
+    Low: 4.041
+    Open: 4.069
+    Volume: 2020551
+- chiave: 128
+  valore:
+    Adj Close: 4.117
+    Close: 4.117
+    Date: '2022-07-22'
+    High: 4.161
+    Low: 4.07
+    Open: 4.106
+    Volume: 780425
+- chiave: 129
+  valore:
+    Adj Close: 4.129
+    Close: 4.129
+    Date: '2022-07-25'
+    High: 4.134
+    Low: 4.073
+    Open: 4.089
+    Volume: 1023382
+- chiave: 130
+  valore:
+    Adj Close: 4.023
+    Close: 4.023
+    Date: '2022-07-26'
+    High: 4.107
+    Low: 4.01
+    Open: 4.087
+    Volume: 1385705
+- chiave: 131
+  valore:
+    Adj Close: 3.918
+    Close: 3.918
+    Date: '2022-07-27'
+    High: 4.07
+    Low: 3.918
+    Open: 4.028
+    Volume: 2424724
+- chiave: 132
+  valore:
+    Adj Close: 3.99
+    Close: 3.99
+    Date: '2022-07-28'
+    High: 4.063
+    Low: 3.956
+    Open: 3.958
+    Volume: 2133856
+- chiave: 133
+  valore:
+    Adj Close: 4.208
+    Close: 4.208
+    Date: '2022-07-29'
+    High: 4.224
+    Low: 4.044
+    Open: 4.055
+    Volume: 1809630
+- chiave: 134
+  valore:
+    Adj Close: 4.177
+    Close: 4.177
+    Date: '2022-08-01'
+    High: 4.237
+    Low: 4.165
+    Open: 4.2
+    Volume: 1062850
+- chiave: 135
+  valore:
+    Adj Close: 4.096
+    Close: 4.096
+    Date: '2022-08-02'
+    High: 4.171
+    Low: 4.078
+    Open: 4.17
+    Volume: 881224
+- chiave: 136
+  valore:
+    Adj Close: 4.28
+    Close: 4.28
+    Date: '2022-08-03'
+    High: 4.28
+    Low: 4.06
+    Open: 4.07
+    Volume: 1426287
+- chiave: 137
+  valore:
+    Adj Close: 4.256
+    Close: 4.256
+    Date: '2022-08-04'
+    High: 4.35
+    Low: 4.231
+    Open: 4.28
+    Volume: 1188294
+- chiave: 138
+  valore:
+    Adj Close: 4.439
+    Close: 4.439
+    Date: '2022-08-05'
+    High: 4.53
+    Low: 4.379
+    Open: 4.4
+    Volume: 4970115
+- chiave: 139
+  valore:
+    Adj Close: 4.407
+    Close: 4.407
+    Date: '2022-08-08'
+    High: 4.48
+    Low: 4.334
+    Open: 4.48
+    Volume: 2232915
+- chiave: 140
+  valore:
+    Adj Close: 4.258
+    Close: 4.258
+    Date: '2022-08-09'
+    High: 4.439
+    Low: 4.226
+    Open: 4.409
+    Volume: 2170413
+- chiave: 141
+  valore:
+    Adj Close: 4.36
+    Close: 4.36
+    Date: '2022-08-10'
+    High: 4.378
+    Low: 4.24
+    Open: 4.248
+    Volume: 2584764
+- chiave: 142
+  valore:
+    Adj Close: 4.291
+    Close: 4.291
+    Date: '2022-08-11'
+    High: 4.398
+    Low: 4.258
+    Open: 4.39
+    Volume: 2859774
+- chiave: 143
+  valore:
+    Adj Close: 4.308
+    Close: 4.308
+    Date: '2022-08-12'
+    High: 4.339
+    Low: 4.28
+    Open: 4.306
+    Volume: 1326998
+- chiave: 144
+  valore:
+    Adj Close: 4.275
+    Close: 4.275
+    Date: '2022-08-16'
+    High: 4.315
+    Low: 4.245
+    Open: 4.311
+    Volume: 1613160
+- chiave: 145
+  valore:
+    Adj Close: 4.135
+    Close: 4.135
+    Date: '2022-08-17'
+    High: 4.308
+    Low: 4.101
+    Open: 4.308
+    Volume: 2906892
+- chiave: 146
+  valore:
+    Adj Close: 4.115
+    Close: 4.115
+    Date: '2022-08-18'
+    High: 4.178
+    Low: 4.083
+    Open: 4.135
+    Volume: 2417292
+- chiave: 147
+  valore:
+    Adj Close: 4.03
+    Close: 4.03
+    Date: '2022-08-19'
+    High: 4.11
+    Low: 4.001
+    Open: 4.073
+    Volume: 1972997
+- chiave: 148
+  valore:
+    Adj Close: 3.888
+    Close: 3.888
+    Date: '2022-08-22'
+    High: 4.03
+    Low: 3.863
+    Open: 4.01
+    Volume: 3268196
+- chiave: 149
+  valore:
+    Adj Close: 3.9
+    Close: 3.9
+    Date: '2022-08-23'
+    High: 3.944
+    Low: 3.862
+    Open: 3.862
+    Volume: 2373494
+- chiave: 150
+  valore:
+    Adj Close: 3.879
+    Close: 3.879
+    Date: '2022-08-24'
+    High: 3.906
+    Low: 3.824
+    Open: 3.891
+    Volume: 2951087
+- chiave: 151
+  valore:
+    Adj Close: 3.876
+    Close: 3.876
+    Date: '2022-08-25'
+    High: 3.923
+    Low: 3.833
+    Open: 3.92
+    Volume: 1691093
+- chiave: 152
+  valore:
+    Adj Close: 3.734
+    Close: 3.734
+    Date: '2022-08-26'
+    High: 3.9
+    Low: 3.722
+    Open: 3.9
+    Volume: 2752657
+- chiave: 153
+  valore:
+    Adj Close: 3.666
+    Close: 3.666
+    Date: '2022-08-29'
+    High: 3.686
+    Low: 3.5
+    Open: 3.677
+    Volume: 4524477
+- chiave: 154
+  valore:
+    Adj Close: 3.709
+    Close: 3.709
+    Date: '2022-08-30'
+    High: 3.765
+    Low: 3.652
+    Open: 3.7
+    Volume: 3276147
+- chiave: 155
+  valore:
+    Adj Close: 3.78
+    Close: 3.78
+    Date: '2022-08-31'
+    High: 3.82
+    Low: 3.704
+    Open: 3.75
+    Volume: 4372863
+- chiave: 156
+  valore:
+    Adj Close: 3.734
+    Close: 3.734
+    Date: '2022-09-01'
+    High: 3.794
+    Low: 3.692
+    Open: 3.713
+    Volume: 1774378
+- chiave: 157
+  valore:
+    Adj Close: 3.85
+    Close: 3.85
+    Date: '2022-09-02'
+    High: 3.859
+    Low: 3.734
+    Open: 3.758
+    Volume: 1884433
+- chiave: 158
+  valore:
+    Adj Close: 3.655
+    Close: 3.655
+    Date: '2022-09-05'
+    High: 3.743
+    Low: 3.655
+    Open: 3.712
+    Volume: 2295669
+- chiave: 159
+  valore:
+    Adj Close: 3.765
+    Close: 3.765
+    Date: '2022-09-06'
+    High: 3.775
+    Low: 3.612
+    Open: 3.616
+    Volume: 2569808
+- chiave: 160
+  valore:
+    Adj Close: 3.784
+    Close: 3.784
+    Date: '2022-09-07'
+    High: 3.787
+    Low: 3.719
+    Open: 3.739
+    Volume: 1415765
+- chiave: 161
+  valore:
+    Adj Close: 3.759
+    Close: 3.759
+    Date: '2022-09-08'
+    High: 3.798
+    Low: 3.687
+    Open: 3.791
+    Volume: 1818135
+- chiave: 162
+  valore:
+    Adj Close: 3.824
+    Close: 3.824
+    Date: '2022-09-09'
+    High: 3.867
+    Low: 3.757
+    Open: 3.757
+    Volume: 1889382
+- chiave: 163
+  valore:
+    Adj Close: 3.92
+    Close: 3.92
+    Date: '2022-09-12'
+    High: 3.941
+    Low: 3.846
+    Open: 3.857
+    Volume: 2198505
+- chiave: 164
+  valore:
+    Adj Close: 3.81
+    Close: 3.81
+    Date: '2022-09-13'
+    High: 3.93
+    Low: 3.801
+    Open: 3.93
+    Volume: 2235118
+- chiave: 165
+  valore:
+    Adj Close: 3.782
+    Close: 3.782
+    Date: '2022-09-14'
+    High: 3.849
+    Low: 3.725
+    Open: 3.8
+    Volume: 1457150
+- chiave: 166
+  valore:
+    Adj Close: 3.781
+    Close: 3.781
+    Date: '2022-09-15'
+    High: 3.835
+    Low: 3.75
+    Open: 3.8
+    Volume: 1132165
+- chiave: 167
+  valore:
+    Adj Close: 3.728
+    Close: 3.728
+    Date: '2022-09-16'
+    High: 3.764
+    Low: 3.676
+    Open: 3.711
+    Volume: 2664565
+- chiave: 168
+  valore:
+    Adj Close: 3.764
+    Close: 3.764
+    Date: '2022-09-19'
+    High: 3.795
+    Low: 3.7
+    Open: 3.713
+    Volume: 1018012
+- chiave: 169
+  valore:
+    Adj Close: 3.776
+    Close: 3.776
+    Date: '2022-09-20'
+    High: 3.813
+    Low: 3.744
+    Open: 3.774
+    Volume: 1465575
+- chiave: 170
+  valore:
+    Adj Close: 3.756
+    Close: 3.756
+    Date: '2022-09-21'
+    High: 3.764
+    Low: 3.712
+    Open: 3.731
+    Volume: 1131519
+- chiave: 171
+  valore:
+    Adj Close: 3.622
+    Close: 3.622
+    Date: '2022-09-22'
+    High: 3.747
+    Low: 3.609
+    Open: 3.677
+    Volume: 2294253
+- chiave: 172
+  valore:
+    Adj Close: 3.465
+    Close: 3.465
+    Date: '2022-09-23'
+    High: 3.626
+    Low: 3.463
+    Open: 3.612
+    Volume: 2080103
+- chiave: 173
+  valore:
+    Adj Close: 3.45
+    Close: 3.45
+    Date: '2022-09-26'
+    High: 3.53
+    Low: 3.428
+    Open: 3.458
+    Volume: 2088678
+- chiave: 174
+  valore:
+    Adj Close: 3.496
+    Close: 3.496
+    Date: '2022-09-27'
+    High: 3.537
+    Low: 3.448
+    Open: 3.484
+    Volume: 1535007
+- chiave: 175
+  valore:
+    Adj Close: 3.422
+    Close: 3.422
+    Date: '2022-09-28'
+    High: 3.475
+    Low: 3.356
+    Open: 3.464
+    Volume: 1918944
+- chiave: 176
+  valore:
+    Adj Close: 3.27
+    Close: 3.27
+    Date: '2022-09-29'
+    High: 3.43
+    Low: 3.221
+    Open: 3.43
+    Volume: 3073716
+- chiave: 177
+  valore:
+    Adj Close: 3.36
+    Close: 3.36
+    Date: '2022-09-30'
+    High: 3.374
+    Low: 3.277
+    Open: 3.288
+    Volume: 2232714
+- chiave: 178
+  valore:
+    Adj Close: 3.366
+    Close: 3.366
+    Date: '2022-10-03'
+    High: 3.381
+    Low: 3.245
+    Open: 3.34
+    Volume: 2368766
+- chiave: 179
+  valore:
+    Adj Close: 3.503
+    Close: 3.503
+    Date: '2022-10-04'
+    High: 3.506
+    Low: 3.385
+    Open: 3.442
+    Volume: 2192771
+- chiave: 180
+  valore:
+    Adj Close: 3.36
+    Close: 3.36
+    Date: '2022-10-05'
+    High: 3.476
+    Low: 3.314
+    Open: 3.453
+    Volume: 2838137
+- chiave: 181
+  valore:
+    Adj Close: 3.41
+    Close: 3.41
+    Date: '2022-10-06'
+    High: 3.462
+    Low: 3.39
+    Open: 3.39
+    Volume: 2840074
+- chiave: 182
+  valore:
+    Adj Close: 3.386
+    Close: 3.386
+    Date: '2022-10-07'
+    High: 3.455
+    Low: 3.364
+    Open: 3.364
+    Volume: 2266722
+- chiave: 183
+  valore:
+    Adj Close: 3.401
+    Close: 3.401
+    Date: '2022-10-10'
+    High: 3.461
+    Low: 3.33
+    Open: 3.33
+    Volume: 2539605
+- chiave: 184
+  valore:
+    Adj Close: 3.404
+    Close: 3.404
+    Date: '2022-10-11'
+    High: 3.404
+    Low: 3.304
+    Open: 3.33
+    Volume: 2153043
+- chiave: 185
+  valore:
+    Adj Close: 3.419
+    Close: 3.419
+    Date: '2022-10-12'
+    High: 3.422
+    Low: 3.316
+    Open: 3.422
+    Volume: 3459188
+- chiave: 186
+  valore:
+    Adj Close: 3.5
+    Close: 3.5
+    Date: '2022-10-13'
+    High: 3.541
+    Low: 3.388
+    Open: 3.4
+    Volume: 3129866
+- chiave: 187
+  valore:
+    Adj Close: 3.546
+    Close: 3.546
+    Date: '2022-10-14'
+    High: 3.609
+    Low: 3.508
+    Open: 3.562
+    Volume: 2338667
+- chiave: 188
+  valore:
+    Adj Close: 3.639
+    Close: 3.639
+    Date: '2022-10-17'
+    High: 3.651
+    Low: 3.495
+    Open: 3.555
+    Volume: 1700651
+- chiave: 189
+  valore:
+    Adj Close: 3.623
+    Close: 3.623
+    Date: '2022-10-18'
+    High: 3.689
+    Low: 3.614
+    Open: 3.67
+    Volume: 2384374
+- chiave: 190
+  valore:
+    Adj Close: 3.569
+    Close: 3.569
+    Date: '2022-10-19'
+    High: 3.653
+    Low: 3.546
+    Open: 3.653
+    Volume: 1713888
+- chiave: 191
+  valore:
+    Adj Close: 3.585
+    Close: 3.585
+    Date: '2022-10-20'
+    High: 3.639
+    Low: 3.531
+    Open: 3.56
+    Volume: 1883074
+- chiave: 192
+  valore:
+    Adj Close: 3.516
+    Close: 3.516
+    Date: '2022-10-21'
+    High: 3.551
+    Low: 3.468
+    Open: 3.55
+    Volume: 2573864
+- chiave: 193
+  valore:
+    Adj Close: 3.698
+    Close: 3.698
+    Date: '2022-10-24'
+    High: 3.712
+    Low: 3.531
+    Open: 3.563
+    Volume: 3358682
+- chiave: 194
+  valore:
+    Adj Close: 3.78
+    Close: 3.78
+    Date: '2022-10-25'
+    High: 3.78
+    Low: 3.672
+    Open: 3.724
+    Volume: 2688752
+- chiave: 195
+  valore:
+    Adj Close: 3.774
+    Close: 3.774
+    Date: '2022-10-26'
+    High: 3.787
+    Low: 3.676
+    Open: 3.74
+    Volume: 1764647
+- chiave: 196
+  valore:
+    Adj Close: 3.841
+    Close: 3.841
+    Date: '2022-10-27'
+    High: 3.87
+    Low: 3.692
+    Open: 3.738
+    Volume: 2313636
+- chiave: 197
+  valore:
+    Adj Close: 3.812
+    Close: 3.812
+    Date: '2022-10-28'
+    High: 3.83
+    Low: 3.754
+    Open: 3.78
+    Volume: 1243466
+- chiave: 198
+  valore:
+    Adj Close: 3.818
+    Close: 3.818
+    Date: '2022-10-31'
+    High: 3.847
+    Low: 3.797
+    Open: 3.829
+    Volume: 1372350
+- chiave: 199
+  valore:
+    Adj Close: 3.724
+    Close: 3.724
+    Date: '2022-11-01'
+    High: 3.85
+    Low: 3.661
+    Open: 3.82
+    Volume: 3798686
+- chiave: 200
+  valore:
+    Adj Close: 3.76
+    Close: 3.76
+    Date: '2022-11-02'
+    High: 3.792
+    Low: 3.707
+    Open: 3.74
+    Volume: 2531218
+- chiave: 201
+  valore:
+    Adj Close: 3.656
+    Close: 3.656
+    Date: '2022-11-03'
+    High: 3.738
+    Low: 3.631
+    Open: 3.738
+    Volume: 2217035
+- chiave: 202
+  valore:
+    Adj Close: 4.058
+    Close: 4.058
+    Date: '2022-11-04'
+    High: 4.08
+    Low: 3.785
+    Open: 3.79
+    Volume: 8350860
+- chiave: 203
+  valore:
+    Adj Close: 4.078
+    Close: 4.078
+    Date: '2022-11-07'
+    High: 4.09
+    Low: 3.939
+    Open: 4.05
+    Volume: 3165190
+- chiave: 204
+  valore:
+    Adj Close: 4.025
+    Close: 4.025
+    Date: '2022-11-08'
+    High: 4.117
+    Low: 4.02
+    Open: 4.053
+    Volume: 1598547
+- chiave: 205
+  valore:
+    Adj Close: 4.041
+    Close: 4.041
+    Date: '2022-11-09'
+    High: 4.063
+    Low: 3.958
+    Open: 4.023
+    Volume: 1521794
+- chiave: 206
+  valore:
+    Adj Close: 4.133
+    Close: 4.133
+    Date: '2022-11-10'
+    High: 4.159
+    Low: 3.989
+    Open: 3.996
+    Volume: 2693788
+- chiave: 207
+  valore:
+    Adj Close: 4.136
+    Close: 4.136
+    Date: '2022-11-11'
+    High: 4.238
+    Low: 4.136
+    Open: 4.199
+    Volume: 2310985
+- chiave: 208
+  valore:
+    Adj Close: 4.185
+    Close: 4.185
+    Date: '2022-11-14'
+    High: 4.219
+    Low: 4.136
+    Open: 4.149
+    Volume: 1535495
+- chiave: 209
+  valore:
+    Adj Close: 4.174
+    Close: 4.174
+    Date: '2022-11-15'
+    High: 4.233
+    Low: 4.097
+    Open: 4.232
+    Volume: 1930210
+- chiave: 210
+  valore:
+    Adj Close: 4.12
+    Close: 4.12
+    Date: '2022-11-16'
+    High: 4.175
+    Low: 4.07
+    Open: 4.171
+    Volume: 1865038
+- chiave: 211
+  valore:
+    Adj Close: 4.076
+    Close: 4.076
+    Date: '2022-11-17'
+    High: 4.174
+    Low: 4.053
+    Open: 4.168
+    Volume: 1307714
+- chiave: 212
+  valore:
+    Adj Close: 4.168
+    Close: 4.168
+    Date: '2022-11-18'
+    High: 4.206
+    Low: 4.057
+    Open: 4.1
+    Volume: 2097102
+- chiave: 213
+  valore:
+    Adj Close: 4.112
+    Close: 4.112
+    Date: '2022-11-21'
+    High: 4.199
+    Low: 4.096
+    Open: 4.144
+    Volume: 1119391
+- chiave: 214
+  valore:
+    Adj Close: 4.162
+    Close: 4.162
+    Date: '2022-11-22'
+    High: 4.179
+    Low: 4.076
+    Open: 4.094
+    Volume: 995208
+- chiave: 215
+  valore:
+    Adj Close: 4.121
+    Close: 4.121
+    Date: '2022-11-23'
+    High: 4.158
+    Low: 4.071
+    Open: 4.158
+    Volume: 1315283
+- chiave: 216
+  valore:
+    Adj Close: 4.184
+    Close: 4.184
+    Date: '2022-11-24'
+    High: 4.2
+    Low: 4.116
+    Open: 4.116
+    Volume: 1298609
+- chiave: 217
+  valore:
+    Adj Close: 4.223
+    Close: 4.223
+    Date: '2022-11-25'
+    High: 4.223
+    Low: 4.147
+    Open: 4.179
+    Volume: 1179788
+- chiave: 218
+  valore:
+    Adj Close: 4.23
+    Close: 4.23
+    Date: '2022-11-28'
+    High: 4.246
+    Low: 4.176
+    Open: 4.186
+    Volume: 1498119
+- chiave: 219
+  valore:
+    Adj Close: 4.192
+    Close: 4.192
+    Date: '2022-11-29'
+    High: 4.265
+    Low: 4.187
+    Open: 4.25
+    Volume: 1292056
+- chiave: 220
+  valore:
+    Adj Close: 4.24
+    Close: 4.24
+    Date: '2022-11-30'
+    High: 4.242
+    Low: 4.169
+    Open: 4.226
+    Volume: 1981212
+- chiave: 221
+  valore:
+    Adj Close: 4.326
+    Close: 4.326
+    Date: '2022-12-01'
+    High: 4.365
+    Low: 4.225
+    Open: 4.271
+    Volume: 2960871
+- chiave: 222
+  valore:
+    Adj Close: 4.273
+    Close: 4.273
+    Date: '2022-12-02'
+    High: 4.327
+    Low: 4.239
+    Open: 4.324
+    Volume: 1043268
+- chiave: 223
+  valore:
+    Adj Close: 4.236
+    Close: 4.236
+    Date: '2022-12-05'
+    High: 4.287
+    Low: 4.194
+    Open: 4.274
+    Volume: 1887472
+- chiave: 224
+  valore:
+    Adj Close: 4.154
+    Close: 4.154
+    Date: '2022-12-06'
+    High: 4.251
+    Low: 4.154
+    Open: 4.21
+    Volume: 2011006
+- chiave: 225
+  valore:
+    Adj Close: 4.143
+    Close: 4.143
+    Date: '2022-12-07'
+    High: 4.193
+    Low: 4.12
+    Open: 4.14
+    Volume: 1459082
+- chiave: 226
+  valore:
+    Adj Close: 4.1
+    Close: 4.1
+    Date: '2022-12-08'
+    High: 4.158
+    Low: 4.069
+    Open: 4.158
+    Volume: 1326415
+- chiave: 227
+  valore:
+    Adj Close: 4.088
+    Close: 4.088
+    Date: '2022-12-09'
+    High: 4.136
+    Low: 4.033
+    Open: 4.135
+    Volume: 1935161
+- chiave: 228
+  valore:
+    Adj Close: 4.002
+    Close: 4.002
+    Date: '2022-12-12'
+    High: 4.074
+    Low: 3.991
+    Open: 4.052
+    Volume: 2636832
+- chiave: 229
+  valore:
+    Adj Close: 4.169
+    Close: 4.169
+    Date: '2022-12-13'
+    High: 4.249
+    Low: 4.008
+    Open: 4.011
+    Volume: 3728189
+- chiave: 230
+  valore:
+    Adj Close: 4.151
+    Close: 4.151
+    Date: '2022-12-14'
+    High: 4.169
+    Low: 4.106
+    Open: 4.141
+    Volume: 1434174
+- chiave: 231
+  valore:
+    Adj Close: 4.029
+    Close: 4.029
+    Date: '2022-12-15'
+    High: 4.163
+    Low: 4.015
+    Open: 4.117
+    Volume: 1633157
+- chiave: 232
+  valore:
+    Adj Close: 3.994
+    Close: 3.994
+    Date: '2022-12-16'
+    High: 4.077
+    Low: 3.984
+    Open: 4.051
+    Volume: 2113833
+- chiave: 233
+  valore:
+    Adj Close: 4.025
+    Close: 4.025
+    Date: '2022-12-19'
+    High: 4.054
+    Low: 4.008
+    Open: 4.019
+    Volume: 780175
+- chiave: 234
+  valore:
+    Adj Close: 4.007
+    Close: 4.007
+    Date: '2022-12-20'
+    High: 4.035
+    Low: 3.948
+    Open: 3.974
+    Volume: 1016341
+- chiave: 235
+  valore:
+    Adj Close: 4.074
+    Close: 4.074
+    Date: '2022-12-21'
+    High: 4.08
+    Low: 4.003
+    Open: 4.039
+    Volume: 995271
+- chiave: 236
+  valore:
+    Adj Close: 4.026
+    Close: 4.026
+    Date: '2022-12-22'
+    High: 4.078
+    Low: 4.009
+    Open: 4.065
+    Volume: 1066557
+- chiave: 237
+  valore:
+    Adj Close: 4.079
+    Close: 4.079
+    Date: '2022-12-23'
+    High: 4.095
+    Low: 4.021
+    Open: 4.034
+    Volume: 929483
+- chiave: 238
+  valore:
+    Adj Close: 4.064
+    Close: 4.064
+    Date: '2022-12-27'
+    High: 4.105
+    Low: 4.047
+    Open: 4.105
+    Volume: 533841
+- chiave: 239
+  valore:
+    Adj Close: 4.061
+    Close: 4.061
+    Date: '2022-12-28'
+    High: 4.067
+    Low: 4.032
+    Open: 4.06
+    Volume: 639048
+- chiave: 240
+  valore:
+    Adj Close: 4.093
+    Close: 4.093
+    Date: '2022-12-29'
+    High: 4.099
+    Low: 4.021
+    Open: 4.058
+    Volume: 859323
+- chiave: 241
+  valore:
+    Adj Close: 4.004
+    Close: 4.004
+    Date: '2022-12-30'
+    High: 4.076
+    Low: 4.004
+    Open: 4.031
+    Volume: 740202
+- chiave: 242
+  valore:
+    Adj Close: 4.089
+    Close: 4.089
+    Date: '2023-01-02'
+    High: 4.115
+    Low: 4.023
+    Open: 4.023
+    Volume: 1180250
+- chiave: 243
+  valore:
+    Adj Close: 4.273
+    Close: 4.273
+    Date: '2023-01-03'
+    High: 4.321
+    Low: 4.099
+    Open: 4.1
+    Volume: 3002032
+- chiave: 244
+  valore:
+    Adj Close: 4.423
+    Close: 4.423
+    Date: '2023-01-04'
+    High: 4.433
+    Low: 4.266
+    Open: 4.274
+    Volume: 2901452
+- chiave: 245
+  valore:
+    Adj Close: 4.441
+    Close: 4.441
+    Date: '2023-01-05'
+    High: 4.453
+    Low: 4.365
+    Open: 4.392
+    Volume: 1610539
+- chiave: 246
+  valore:
+    Adj Close: 4.552
+    Close: 4.552
+    Date: '2023-01-06'
+    High: 4.572
+    Low: 4.384
+    Open: 4.441
+    Volume: 1755535
+- chiave: 247
+  valore:
+    Adj Close: 4.552
+    Close: 4.552
+    Date: '2023-01-09'
+    High: 4.592
+    Low: 4.517
+    Open: 4.564
+    Volume: 1241856
+- chiave: 248
+  valore:
+    Adj Close: 4.54
+    Close: 4.54
+    Date: '2023-01-10'
+    High: 4.644
+    Low: 4.495
+    Open: 4.63
+    Volume: 1362107
+- chiave: 249
+  valore:
+    Adj Close: 4.565
+    Close: 4.565
+    Date: '2023-01-11'
+    High: 4.574
+    Low: 4.502
+    Open: 4.574
+    Volume: 1203558
+- chiave: 250
+  valore:
+    Adj Close: 4.645
+    Close: 4.645
+    Date: '2023-01-12'
+    High: 4.679
+    Low: 4.559
+    Open: 4.591
+    Volume: 2514140
+- chiave: 251
+  valore:
+    Adj Close: 4.609
+    Close: 4.609
+    Date: '2023-01-13'
+    High: 4.63
+    Low: 4.556
+    Open: 4.63
+    Volume: 1423586
+- chiave: 252
+  valore:
+    Adj Close: 4.64
+    Close: 4.64
+    Date: '2023-01-16'
+    High: 4.666
+    Low: 4.578
+    Open: 4.613
+    Volume: 1141934
+- chiave: 253
+  valore:
+    Adj Close: 4.688
+    Close: 4.688
+    Date: '2023-01-17'
+    High: 4.707
+    Low: 4.6
+    Open: 4.614
+    Volume: 1481884
+- chiave: 254
+  valore:
+    Adj Close: 4.72
+    Close: 4.72
+    Date: '2023-01-18'
+    High: 4.806
+    Low: 4.634
+    Open: 4.655
+    Volume: 2314915
+- chiave: 255
+  valore:
+    Adj Close: 4.591
+    Close: 4.591
+    Date: '2023-01-19'
+    High: 4.715
+    Low: 4.58
+    Open: 4.677
+    Volume: 1615322
+- chiave: 256
+  valore:
+    Adj Close: 4.537
+    Close: 4.537
+    Date: '2023-01-20'
+    High: 4.639
+    Low: 4.485
+    Open: 4.639
+    Volume: 2276340
