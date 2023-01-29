@@ -17,19 +17,29 @@ Python program to operate on downloads data from yahoo finance and converts it i
 
 - Python version between `3.6` and `3.9`
 - `requests` library
+ ```commandline
     pip install request
+ ```
     
 - `csv` library
+ ```commandline
     pip install csv
+ ```
 
 - `json` library
+ ```commandline
     pip install json
+ ```
     
 - `Yaml` library
+ ```commandline
     pip install PyYAML
+ ```
     
 - `pandas` library
+ ```commandline
     pip install pandas
+ ```
 
 ## Execution examples
 
