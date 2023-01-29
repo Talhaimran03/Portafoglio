@@ -20,5 +20,7 @@
 |   5         |   2.3     |           Solving bugs               |   Imran, Oliverio, Pavoni, Rajapaksha |   27/01/2023 |   28/01/2023 |       |
 |   6         |   2.4     |           Advance search on google to resolve unspected problems              |   Imran, Oliverio, Pavoni, Rajapaksha |   27/01/2023 |   28/01/2023 |       |
 |   **1**     |   **3**   |   **Submit project**                         |                                       |              |              |             |
-|   1         |   3.1     |       Creating and compiling the markdown file                          |   Oliverio                               |   27/01/2023 |   28/01/2023 |   README.md |
-|   1         |   3.2     |       Submit project                          |   Imran, Oliverio, Pavoni, Rajapaksha                               |   27/01/2023 |   28/01/2023 |    |
+|   1         |   3.1     |       Dividing the script in files by functions                                      |   Imran                               |   27/01/2023 |   28/01/2023 |    |
+|   2         |   3.2     |       Adding comments to the script                                                  |   Imran                               |   27/01/2023 |   28/01/2023 |    |
+|   3         |   3.3     |       Creating and compiling the markdown file                          |   Oliverio                               |   27/01/2023 |   28/01/2023 |   README.md |
+|   4         |   3.4     |       Submit project                          |   Imran, Oliverio, Pavoni, Rajapaksha                               |   27/01/2023 |   28/01/2023 |    |
