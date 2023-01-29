@@ -8,6 +8,7 @@
 |     Role      |      Name        |               Email                | Telephone number |
 |      -        |        -         |                 -                  |         -        |
 | President     | Marco Aprea      | marco.aprea@marconiverona.edu.it   |    3*******12    |
+| President     | Remo Tantalo     | remo.tantalo@marconiverona.edu.it  |    3*******34    |
 | VP - Director | Talha Imran      | 19078@studenti.marconiverona.edu.it|    3*******56    |
 | VP - Director | Kasun Bimsara    | 19221@studenti.marconiverona.edu.it|    3*******80    |
 | Developer     | Alberto Pavoni   | 18732@studenti.marconiverona.edu.it|    3*******54    |
