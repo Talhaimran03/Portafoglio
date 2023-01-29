@@ -20,13 +20,15 @@
 | Solving bugs                                                 |  Doing  |           |  R & A   |     R    |    R    |   R & A    |
 | Advance search on google to resolve unspected problems       |  Doing  |           |    R     |     R    |    R    |     R      |
 | **Submit process**                                           |         |     I     |          |          |         |            |
+| Dividing the script in files by functions                    |  Done   |           |    R     |          |         |            |
+| Adding comments to the script                                |  Done   |           |    R     |          |         |            |
 | Creating and compiling the markdown file                     |  Doing  |           |          |     R    |         |            |
 | Sharing the completed project work with group                |  Doing  |           |    R     |     R    |    R    |     R      |
 | Studying and resolving problems  (in case have any)          |  Doing  |           |    R     |     R    |    R    |     R      |
 | Creating Repository in GitHub and submitting the projecDoing |         |           |    R     |          |         |            |
 | **Presentation of completed Project**                        |  Doing  |     I     |          |          |         |            |
 
-
+**Meaning table**
 | ALIAS | Full name   |                  Meaning                                                                       |
 |   -   |     -       |                     -                                                                          | 
 |   D   | Driver      |	Assists those who are responsible for a task                                                   |
