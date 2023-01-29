@@ -1,5 +1,5 @@
 # Portafoglio
-![Author](https://img.shields.io/badge/author-Oliverio%20Lorenzo-%20%20MPavoni%20Alberto%20%20Imran%20Talha%20%20Kasun%20Bimsara%20Kiranidu%20Rajapaksha%20Hettiach%20Mudianselage-blue)
+![Author](https://img.shields.io/badge/author-Oliverio%20Lorenzo%20%20MPavoni%20Alberto%20%20Imran%20Talha%20%20Kasun%20Bimsara%20Kiranidu%20Rajapaksha%20Hettiach%20Mudianselage-blue)
 ![Language](https://img.shields.io/badge/language-python-orange?style=flat)
 ![Platform](https://img.shields.io/badge/OS%20platform%20supported-Windows-blue?style=flat)
 ![Platform](https://img.shields.io/badge/OS%20platform%20supported-Linux-blue?style=flat)
