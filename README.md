@@ -55,6 +55,77 @@ Open a terminal with path "./portafoglio/" and type the following command:
   ```
   python3 main.py
   ```
+## Output example
+
+Requesting file...
+Request successful ✔️ 
+
+Removing the oldest files from directory...
+
+Saving csv file...
+CSV file saved ✔️ 
+
+Creating JSON file...
+JSON file saved ✔️ 
+
+Creating YAML file...
+YAML file saved ✔️ 
+
+Output files saved successfully in directory "output files" ✔️
+Execution completed successfully ✔️ 
+
+
+- PIRC.MI.csv:  
+  Date,Open,High,Low,Close,Adj Close,Volume  
+  2022-01-24,6.386000,6.424000,6.058000,6.088000,5.870860,2370106  
+  2022-01-25,6.176000,6.256000,6.110000,6.200000,5.978866,2014242  
+
+- PIRC.MI.json:  
+   {  
+       "chiave": 1,  
+       "valore": {  
+           "Date": "2022-01-24",  
+           "Open": 6.386,  
+           "High": 6.424,  
+           "Low": 6.058,  
+           "Close": 6.088,  
+           "Adj Close": 5.87086,  
+           "Volume": 2370106  
+       }  
+   },  
+   {  
+       "chiave": 2,  
+       "valore": {  
+           "Date": "2022-01-25",  
+           "Open": 6.176,  
+           "High": 6.256,  
+           "Low": 6.11,  
+           "Close": 6.2,  
+           "Adj Close": 5.978866,  
+           "Volume": 2014242  
+     }  
+
+- PIRC.MI.yaml:  
+   - chiave: 1  
+     valore:  
+       Adj Close: 5.87086  
+       Close: 6.088  
+       Date: '2022-01-24'  
+       High: 6.424  
+       Low: 6.058  
+       Open: 6.386  
+       Volume: 2370106  
+   - chiave: 2  
+     valore:  
+       Adj Close: 5.978866  
+       Close: 6.2  
+       Date: '2022-01-25'  
+       High: 6.256  
+       Low: 6.11  
+       Open: 6.176  
+       Volume: 2014242  
+  
+  
 ## Tags
 
  **#markdown, #tags, #python, #circular_programming**
@@ -63,7 +134,7 @@ Open a terminal with path "./portafoglio/" and type the following command:
 
 ## Author
 
-Made by Oliverio Lorenzo, Pavoni Alberto, Imran Talha, Kasun Bimsara Kiranidu Rajapaksha Hettiach Mudianselage
+Made by Oliverio Lorenzo, Pavoni Alberto, Imran Talha, Kasun Rajapaksha
 
 ## Contact
 
