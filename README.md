@@ -11,7 +11,8 @@
 
 ## Description
 
-Python program to operate on downloads data from yahoo finance and converts it into csv then in json and yaml.
+- Python program which downloads the csv file from yahoo finance
+- Converts the csv file into json and then into yaml
 
 ## Required
 
@@ -56,7 +57,7 @@ Open a terminal with path "./portafoglio/" and type the following command:
   ```
 ## Tags
 
- #markdown, #tags, #python
+ **#markdown, #tags, #python, #circular_programming**
 
 ***
 
