@@ -1,14 +1,3 @@
-# Import of libraries
-import pandas as pd
-from io import StringIO
-import os
-
-# Import of the functions
-from scripts.get_content import get_content
-from scripts.save_csv import save_csv
-from scripts.convert_to_json import convert_to_json
-from scripts.convert_to_yaml import convert_to_yaml
-
 __author__ = ["Talha Imran", "Lorenzo Oliverio",
               "Albetro Pavoni", "Kasun Rajapaksha"]
 __copyright__ = "Copyright 2023 ©️"
@@ -20,7 +9,18 @@ __email__ = ["19078@studenti.marconiverona.edu.it",
              "19221@studenti.marconiverona.edu.it", 
              "18732@studenti.marconiverona.edu.it", 
              "19133@studenti.marconiverona.edu.it"]
-__status__ = "Development"
+__status__ = "Developed"
+
+# Import of libraries
+import pandas as pd
+from io import StringIO
+import os
+
+# Import of the functions
+from scripts.get_content import get_content
+from scripts.save_csv import save_csv
+from scripts.convert_to_json import convert_to_json
+from scripts.convert_to_yaml import convert_to_yaml
 
 def main():
 
