@@ -41,6 +41,9 @@
  ```commandline
     pip install pandas
  ```
+ 
+ - [] ciao
+ - [x] ciao
 
 ## Execution examples
 
