@@ -43,12 +43,12 @@
  ```
  
  ## Check list
-- [x] **Research** 
+**Research** 
 - [x] Analysing and studying of the assignment                    
 - [x] Research and data collection                                
 - [x] WBS, RACI, OBI compilation                                  
 
-- [x] **DEVELOPMENT**                                             
+**DEVELOPMENT**                                             
 - [x] Choice of language to use                                   
 - [x] Choice of libraries to use                                  
 - [x] source code development                                     
@@ -56,7 +56,7 @@
 - [x] Solving bugs                                                
 - [x] Advance search on google to resolve unspected problems      
 
-- [x] **Submit process**                                          
+**Submit process**                                          
 - [x] Dividing the script in files by functions                   
 - [x] Adding comments to the script                               
 - [x] Creating and compiling the markdown file                    
