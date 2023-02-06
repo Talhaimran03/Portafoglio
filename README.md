@@ -42,8 +42,29 @@
     pip install pandas
  ```
  
- - [] ciao
- - [x] ciao
+ ## Check list
+- [x] **Research** 
+- [x] Analysing and studying of the assignment                    
+- [x] Research and data collection                                
+- [x] WBS, RACI, OBI compilation                                  
+
+- [x] **DEVELOPMENT**                                             
+- [x] Choice of language to use                                   
+- [x] Choice of libraries to use                                  
+- [x] source code development                                     
+- [x] Testing the script                                          
+- [x] Solving bugs                                                
+- [x] Advance search on google to resolve unspected problems      
+
+- [x] **Submit process**                                          
+- [x] Dividing the script in files by functions                   
+- [x] Adding comments to the script                               
+- [x] Creating and compiling the markdown file                    
+- [x] Sharing the completed project work with group               
+- [x] Studying and resolving problems  (in case have any)         
+- [x] Creating Repository in GitHub and submitting the projecDoing
+- [x] **Presentation of completed Project**                                            
+
 
 ## Execution examples
 
